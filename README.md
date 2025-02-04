@@ -37,4 +37,5 @@ The overall purpose of such a script is to automate the process of data analysis
 
 # OUTPUT OF THE CODE 
 
+![Image](https://github.com/user-attachments/assets/2caa2304-8a69-4a1b-98c8-d2622c466621)
 
